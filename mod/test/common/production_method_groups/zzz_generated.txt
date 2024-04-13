@@ -1,0 +1,1747 @@
+﻿pmg_dummy = {
+	production_methods = {
+		pm_dummy
+	}
+}
+pmg_base_building_food_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_bakery
+		pm_sweeteners
+		pm_baking_powder
+	}
+}
+pmg_canning = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_disabled_canning
+		pm_cannery
+		pm_vacuum_canning
+	}
+}
+pmg_distillery = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_disabled_distillery
+		pm_pot_stills
+		pm_patent_stills
+	}
+}
+pmg_automation_building_food_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_manual_dough_processing
+		pm_automated_bakery
+	}
+}
+pmg_ownership_capital_building_food_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_food_industry
+		pm_privately_owned_building_food_industry
+		pm_publicly_traded_building_food_industry
+		pm_government_run_building_food_industry
+		pm_worker_cooperative_building_food_industry
+	}
+}
+pmg_base_building_textile_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_handsewn_clothes
+		pm_dye_workshops
+		pm_sewing_machines
+		pm_electric_sewing_machines
+	}
+}
+pmg_luxury_building_textile_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_luxury_clothes
+		pm_craftsman_sewing
+		pm_elastics
+	}
+}
+pmg_automation_building_textile_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_traditional_looms
+		pm_mechanized_looms
+		pm_automatic_power_looms
+	}
+}
+pmg_ownership_capital_building_textile_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_textile_mills
+		pm_privately_owned_building_textile_mills
+		pm_publicly_traded_building_textile_mills
+		pm_government_run_building_textile_mills
+		pm_worker_cooperative_building_textile_mills
+	}
+}
+pmg_base_building_furniture_manufacturies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_handcrafted_furniture
+		pm_lathe
+		pm_mechanized_workshops
+	}
+}
+pmg_luxury_building_furniture_manufacturies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_luxuries
+		pm_luxury_furniture
+		pm_precision_tools
+	}
+}
+pmg_automation_building_furniture_manufacturies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_watertube_boiler_building_furniture_manufacturies
+		pm_rotary_valve_engine_building_furniture_manufacturies
+		pm_assembly_lines_building_furniture_manufacturies
+	}
+}
+pmg_ownership_capital_building_furniture_manufacturies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_furniture_manufacturies
+		pm_privately_owned_building_furniture_manufacturies
+		pm_publicly_traded_building_furniture_manufacturies
+		pm_government_run_building_furniture_manufacturies
+		pm_worker_cooperative_building_furniture_manufacturies
+	}
+}
+pmg_base_building_tooling_workshops = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_crude_tools
+		pm_pig_iron
+		pm_steel
+		pm_rubber_grips
+	}
+}
+pmg_automation_building_tooling_workshops = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_watertube_boiler_building_tooling_workshops
+		pm_rotary_valve_engine_building_tooling_workshops
+		pm_assembly_lines_building_tooling_workshops
+	}
+}
+pmg_ownership_capital_building_tooling_workshops = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_tooling_workshops
+		pm_privately_owned_building_tooling_workshops
+		pm_publicly_traded_building_tooling_workshops
+		pm_government_run_building_tooling_workshops
+		pm_worker_cooperative_building_tooling_workshops
+	}
+}
+pmg_base_building_glassworks = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_forest_glass
+		pm_leaded_glass
+		pm_crystal_glass
+		pm_houseware_plastics
+	}
+}
+pmg_luxury_building_glassworks = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_disabled_ceramics
+		pm_ceramics
+		pm_bone_china
+	}
+}
+pmg_glassblowing = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_manual_glassblowing
+		pm_automatic_bottle_blowers
+	}
+}
+pmg_ownership_capital_building_glassworks = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_glassworks
+		pm_privately_owned_building_glassworks
+		pm_publicly_traded_building_glassworks
+		pm_government_run_building_glassworks
+		pm_worker_cooperative_building_glassworks
+	}
+}
+pmg_base_building_paper_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_pulp_pressing
+		pm_sulfite_pulping
+		pm_bleached_paper
+	}
+}
+pmg_automation_building_paper_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_watertube_boiler_building_paper_mills
+		pm_rotary_valve_engine_building_paper_mills
+	}
+}
+pmg_ownership_capital_building_paper_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_paper_mills
+		pm_privately_owned_building_paper_mills
+		pm_publicly_traded_building_paper_mills
+		pm_government_run_building_paper_mills
+		pm_worker_cooperative_building_paper_mills
+	}
+}
+pmg_fertilizer_production = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_artificial_fertilizers
+		pm_improved_fertilizer
+		pm_nitrogen_fixation
+	}
+}
+pmg_explosives_building_chemical_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_leblanc_process
+		pm_ammonia-soda_process
+		pm_vacuum_evaporation
+		pm_brine_electrolysis
+	}
+}
+pmg_ownership_capital_building_chemical_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_chemical_plants
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_ownership_capital_building_explosives_factory = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_explosives_factory
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_synthetic_dyes = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_dye_production
+	}
+}
+pmg_synthetic_silk = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_artificial_fibers
+		pm_rayon
+	}
+}
+pmg_ownership_capital_building_synthetics_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_synthetic_plants
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_steelmaking_process = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_blister_steel_process
+		pm_bessemer_process
+		pm_open_hearth_process
+		pm_electric_arc_process
+	}
+}
+pmg_automation_building_steel_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_watertube_boiler_building_steel_mills
+		pm_rotary_valve_engine_building_steel_mills
+	}
+}
+pmg_ownership_capital_building_steel_mills = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_steel_mills
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_base_building_motor_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_steam_engines
+		pm_electric_engines
+		pm_diesel_engines
+	}
+}
+pmg_automobile_production = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_automobiles_disabled
+		pm_automobile_production
+	}
+}
+pmg_automation_building_motor_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_watertube_boiler_building_motor_industry
+		pm_rotary_valve_engine_building_motor_industry
+		pm_assembly_lines_building_motor_industry
+	}
+}
+pmg_ownership_capital_building_motor_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_motor_industries
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_base_building_shipyards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_basic_shipbuilding
+		pm_complex_shipbuilding
+		pm_metal_shipbuilding
+		pm_arc_welding_shipbuilding
+	}
+}
+pmg_military_base = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_military.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_military_shipbuilding_wooden
+		pm_military_shipbuilding_wooden_2
+		pm_military_shipbuilding_steam
+		pm_military_shipbuilding_steam_2
+	}
+}
+pmg_ownership_capital_building_shipyards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_shipyards
+		pm_privately_owned_building_shipyards
+		pm_publicly_traded_building_shipyards
+		pm_government_run_building_shipyards
+		pm_worker_cooperative_building_shipyards
+	}
+}
+pmg_ownership_capital_building_military_shipyards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_military_shipyards
+		pm_privately_owned_building_military_shipyards
+		pm_publicly_traded_building_military_shipyards
+		pm_government_run_building_military_shipyards
+		pm_worker_cooperative_building_military_shipyards
+	}
+}
+pmg_aeroplanes = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_aeroplane_production
+	}
+}
+pmg_tanks = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_tank_production
+		pm_tank_production
+	}
+}
+pmg_ownership_capital_building_war_machine_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_war_machines_induestries
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_telephones_category = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_telephones
+	}
+}
+pmg_radios_category = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_radios
+		pm_radios
+	}
+}
+pmg_ownership_capital_building_electrics_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_electrics_industries
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_firearms_manufacturing = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_muskets
+		pm_rifles
+		pm_repeaters
+		pm_bolt_action_rifles
+	}
+}
+pmg_automation_building_arms_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_automation_disabled
+		pm_rotary_valve_engine_building_arms_industry
+		pm_assembly_lines_building_arms_industry
+	}
+}
+pmg_foundries = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_cannons
+		pm_smoothbores
+		pm_breech_loaders
+		pm_recoiled_barrels
+	}
+}
+pmg_ownership_capital_building_arms_industry = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_arms_industry
+		pm_privately_owned_building_arms_industry
+		pm_publicly_traded_building_arms_industry
+		pm_government_run_building_arms_industry
+		pm_worker_cooperative_building_arms_industry
+	}
+}
+pmg_ownership_capital_building_artillery_foundries = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_artillery_foundries
+		pm_privately_owned_building_artillery_foundries
+		pm_publicly_traded_building_artillery_foundries
+		pm_government_run_building_arms_industry
+		pm_worker_cooperative_building_artillery_foundries
+	}
+}
+pmg_base_building_munition_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_percussion_caps
+		pm_explosive_shells
+	}
+}
+pmg_automation_building_munition_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_automation_disabled
+		pm_rotary_valve_engine_building_munition_plants
+		pm_assembly_lines_building_munition_plants
+	}
+}
+pmg_ownership_capital_building_munition_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_munition_plants
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_base_building_rye_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_farming
+		pm_soil_enriching_farming
+		pm_fertilization
+		pm_chemical_fertilizer
+	}
+}
+pmg_secondary_building_rye_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_potatoes
+		pm_apple_orchards
+	}
+}
+pmg_harvesting_process_building_rye_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_tools_disabled
+		pm_tools
+		pm_steam_threshers
+		pm_tractors
+		pm_compression_ignition_tractors
+	}
+}
+pmg_ownership_land_building_rye_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_base_building_wheat_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_farming
+		pm_soil_enriching_farming
+		pm_fertilization
+		pm_chemical_fertilizer
+	}
+}
+pmg_secondary_building_wheat_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_citrus_orchards
+	}
+}
+pmg_harvesting_process_building_wheat_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_tools_disabled
+		pm_tools
+		pm_steam_threshers
+		pm_tractors
+		pm_compression_ignition_tractors
+	}
+}
+pmg_ownership_land_building_wheat_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_base_building_rice_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_farming_building_rice_farm
+		pm_soil_enriching_farming_building_rice_farm
+		pm_fertilization_building_rice_farm
+		pm_chemical_fertilizer_building_rice_farm
+	}
+}
+pmg_secondary_building_rice_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_fig_orchards_building_rice_farm
+	}
+}
+pmg_harvesting_process_building_rice_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_tools_disabled
+		pm_tools_building_rice_farm
+		pm_steam_threshers_building_rice_farm
+	}
+}
+pmg_ownership_land_building_rice_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_base_building_maize_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_farming
+		pm_soil_enriching_farming
+		pm_fertilization
+		pm_chemical_fertilizer
+	}
+}
+pmg_secondary_building_maize_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_citrus_orchards
+	}
+}
+pmg_harvesting_process_building_maize_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_tools_disabled
+		pm_tools
+		pm_steam_threshers
+		pm_tractors
+		pm_compression_ignition_tractors
+	}
+}
+pmg_ownership_land_building_maize_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_base_building_millet_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_farming
+		pm_soil_enriching_farming
+		pm_fertilization
+		pm_chemical_fertilizer
+	}
+}
+pmg_secondary_building_millet_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_fig_orchards
+	}
+}
+pmg_harvesting_process_building_millet_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_tools_disabled
+		pm_tools
+		pm_steam_threshers
+		pm_tractors
+		pm_compression_ignition_tractors
+	}
+}
+pmg_ownership_land_building_millet_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_sheep_ranch = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_ranch
+		pm_sheep_farms
+		pm_intensive_grazing_ranch
+	}
+}
+pmg_base_building_livestock_ranch = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_open_air_stockyards
+		pm_butchering_tools
+		pm_slaughterhouses
+		pm_mechanized_slaughtering
+	}
+}
+pmg_fencing = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_standard_fences
+		pm_barbed_wire_fences
+		pm_electric_fencing
+	}
+}
+pmg_refrigeration_building_livestock_ranch = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_unrefrigerated
+		pm_refrigerated_storage_building_livestock_ranch
+		pm_refrigerated_rail_cars_building_livestock_ranch
+	}
+}
+pmg_ownership_land_building_livestock_ranch = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_homesteading
+		pm_government_run
+		pm_worker_cooperative_farm
+	}
+}
+pmg_mining_equipment_building_coal_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_picks_and_shovels_building_coal_mine
+		pm_atmospheric_engine_pump_building_coal_mine
+		pm_condensing_engine_pump_building_coal_mine
+		pm_diesel_pump_building_coal_mine
+	}
+}
+pmg_explosives_building_coal_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_explosives
+		pm_nitroglycerin_building_coal_mine
+		pm_dynamite_building_coal_mine
+	}
+}
+pmg_steam_automation_building_coal_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_steam_automation
+		pm_steam_donkey_building_coal_mine
+	}
+}
+pmg_train_automation_building_coal_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_mine
+	}
+}
+pmg_ownership_capital_building_coal_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_coal_mine
+		pm_privately_owned_building_coal_mine
+		pm_publicly_traded_building_coal_mine
+		pm_government_run_building_coal_mine
+		pm_worker_cooperative_building_coal_mine
+	}
+}
+pmg_mining_equipment_building_iron_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_picks_and_shovels_building_iron_mine
+		pm_atmospheric_engine_pump_building_iron_mine
+		pm_condensing_engine_pump_building_iron_mine
+		pm_diesel_pump_building_iron_mine
+	}
+}
+pmg_explosives_building_iron_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_explosives
+		pm_nitroglycerin_building_iron_mine
+		pm_dynamite_building_iron_mine
+	}
+}
+pmg_steam_automation_building_iron_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_steam_automation
+		pm_steam_donkey_mine
+	}
+}
+pmg_train_automation_building_iron_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_mine
+	}
+}
+pmg_ownership_capital_building_iron_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_iron_mine
+		pm_privately_owned_building_iron_mine
+		pm_publicly_traded_building_iron_mine
+		pm_government_run_building_iron_mine
+		pm_worker_cooperative_building_iron_mine
+	}
+}
+pmg_mining_equipment_building_lead_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_picks_and_shovels_building_lead_mine
+		pm_atmospheric_engine_pump_building_lead_mine
+		pm_condensing_engine_pump_building_lead_mine
+		pm_diesel_pump_building_lead_mine
+	}
+}
+pmg_explosives_building_lead_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_explosives
+		pm_nitroglycerin_building_lead_mine
+		pm_dynamite_building_lead_mine
+	}
+}
+pmg_steam_automation_building_lead_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_steam_automation
+		pm_steam_donkey_mine
+	}
+}
+pmg_train_automation_building_lead_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_mine
+	}
+}
+pmg_ownership_capital_building_lead_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_lead_mine
+		pm_privately_owned_building_lead_mine
+		pm_publicly_traded_building_lead_mine
+		pm_government_run_building_lead_mine
+		pm_worker_cooperative_building_lead_mine
+	}
+}
+pmg_mining_equipment_building_sulfur_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_picks_and_shovels_building_sulfur_mine
+		pm_atmospheric_engine_pump_building_sulfur_mine
+		pm_condensing_engine_pump_building_sulfur_mine
+		pm_diesel_pump_building_sulfur_mine
+	}
+}
+pmg_explosives_building_sulfur_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_explosives
+		pm_nitroglycerin_building_sulfur_mine
+		pm_dynamite_building_sulfur_mine
+	}
+}
+pmg_steam_automation_building_sulfur_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_steam_automation
+		pm_steam_donkey_mine
+	}
+}
+pmg_train_automation_building_sulfur_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_mine
+	}
+}
+pmg_ownership_capital_building_sulfur_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_sulfur_mine
+		pm_privately_owned_building_sulfur_mine
+		pm_publicly_traded_building_sulfur_mine
+		pm_government_run_building_sulfur_mine
+		pm_worker_cooperative_building_sulfur_mine
+	}
+}
+pmg_mining_equipment_building_gold_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_picks_and_shovels_building_gold_mine
+		pm_atmospheric_engine_pump_building_gold_mine
+		pm_condensing_engine_pump_building_gold_mine
+		pm_diesel_pump_building_gold_mine
+	}
+}
+pmg_explosives_building_gold_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_explosives
+		pm_nitroglycerin_building_gold_mine
+		pm_dynamite_building_gold_mine
+	}
+}
+pmg_steam_automation_building_gold_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_steam_automation
+		pm_steam_donkey_mine
+	}
+}
+pmg_train_automation_building_gold_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_mine
+	}
+}
+pmg_ownership_capital_building_gold_mine = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_gold_mine
+		pm_privately_owned_building_gold_mine
+		pm_publicly_traded_building_gold_mine
+		pm_government_run_building_gold_mine
+		pm_worker_cooperative_building_gold_mine
+	}
+}
+pmg_base_building_gold_fields = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_gold_fields
+	}
+}
+pmg_base_building_coffee_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_coffee_plantation
+		automatic_irrigation_building_coffee_plantation
+	}
+}
+pmg_train_automation_building_coffee_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_coffee_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_cotton_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_cotton_plantation
+		automatic_irrigation_building_cotton_plantation
+	}
+}
+pmg_train_automation_building_cotton_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_cotton_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_dye_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_dye_plantation
+		automatic_irrigation_building_dye_plantation
+	}
+}
+pmg_train_automation_building_dye_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_dye_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_opium_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_opium_plantation
+		automatic_irrigation_building_opium_plantation
+	}
+}
+pmg_train_automation_building_opium_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_opium_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_tea_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_tea_plantation
+		automatic_irrigation_building_tea_plantation
+	}
+}
+pmg_train_automation_building_tea_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_tea_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_tobacco_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_tobacco_plantation
+		automatic_irrigation_building_tobacco_plantation
+	}
+}
+pmg_train_automation_building_tobacco_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_tobacco_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_sugar_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_sugar_plantation
+		automatic_irrigation_building_sugar_plantation
+	}
+}
+pmg_train_automation_building_sugar_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_sugar_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_banana_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_banana_plantation
+		automatic_irrigation_building_banana_plantation
+	}
+}
+pmg_train_automation_building_banana_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_banana_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_silk_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_silk_plantation
+		automatic_irrigation_building_silk_plantation
+	}
+}
+pmg_train_automation_building_silk_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_silk_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_vineyard_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_vineyard_plantation
+		automatic_irrigation_building_vineyard_plantation
+	}
+}
+pmg_train_automation_building_vineyard_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_vineyard_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_plantation
+		pm_publicly_traded_plantation
+		pm_government_run_plantation
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_training = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_military.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_no_organization
+		pm_general_training
+		pm_advanced_tactics_training
+		pm_training_streamlining
+		pm_nco_incorporation
+		pm_mobile_warfare_tactics
+	}
+}
+pmg_training_conscription = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_military.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_no_organization_conscription
+		pm_general_training_conscription
+		pm_advanced_tactics_training_conscription
+		pm_training_streamlining_conscription
+		pm_nco_incorporation_conscription
+		pm_mobile_warfare_tactics_conscription
+	}
+}
+pmg_naval_theory = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_military.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_no_naval_theory
+		pm_power_of_the_purse
+		pm_jeune_ecole
+		pm_sea_lane_strategies
+		pm_battlefleet_tactics
+	}
+}
+pmg_amenities = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_market_stalls
+		pm_market_squares
+		pm_covered_markets
+		pm_arcades
+	}
+}
+pmg_street_lighting = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_street_lighting
+		pm_gas_streetlights
+		pm_electric_streetlights
+	}
+}
+pmg_public_transport = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_public_transport
+		pm_public_trams
+		pm_public_motor_carriages
+	}
+}
+pmg_urban_clergy = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_state_urban_clergy
+		pm_free_urban_clergy
+		pm_no_urban_clergy
+	}
+}
+pmg_base_building_arts_academy = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_traditional_art
+		pm_realist_art
+		pm_photographic_art
+		pm_film_art
+	}
+}
+pmg_ownership_building_arts_academy = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_traditional_patronage
+		pm_bourgeoisie_patronage
+		pm_independent_artists
+	}
+}
+pmg_base_building_power_plant = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_hydroelectric_plant
+		pm_coal-fired_plant
+		pm_oil-fired_plant
+	}
+}
+pmg_ownership_capital_building_power_plant = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_building_railway
+		pm_publicly_traded_building_railway
+		pm_government_run_building_railway
+		pm_worker_cooperative_building_railway
+	}
+}
+pmg_base_building_port = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_anchorage
+		pm_basic_port
+		pm_industrial_port
+		pm_modern_port
+	}
+}
+pmg_base_building_government_administration = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_simple_organization
+		pm_horizontal_drawer_cabinets
+		pm_vertical_filing_cabinets
+		pm_switch_boards
+	}
+}
+pmg_government_administration_bureaucrat_professionalism = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_hereditary_bureaucrats
+		pm_professional_bureaucrats
+	}
+}
+pmg_government_administration_religious_administration = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_religious_bureaucrats
+		pm_secular_bureaucrats
+	}
+}
+pmg_base_building_university = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_scholastic_education
+		pm_philosophy_department
+		pm_analytical_philosophy_department
+	}
+}
+pmg_university_academia = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_religious_academia
+		pm_secular_academia
+	}
+}
+pmg_base_building_skyscraper = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_skyscraper_bureaucratic_nexus
+		pm_skyscraper_trade_nexus
+	}
+}
+pmg_airship_mooring_post = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_no_airships
+		pm_airship_mooring_post
+	}
+}
+pmg_base_building_eiffel_tower = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_eiffel_tower
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_cristo_redentor = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_cristo_redentor
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_angkor_wat = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_angkor_wat
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_big_ben = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_big_ben
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_forbidden_city = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_forbidden_city
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_hagia_sophia = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_hagia_sophia
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_mosque_of_djenne = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_mosque_of_djenne
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_saint_basils_cathedral = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_saint_basils_cathedral
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_statue_of_liberty = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_statue_of_liberty
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_taj_mahal = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_taj_mahal
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_vatican_city = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_vatican_city
+		pm_monument_prestige_only_vatican_city
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_white_house = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+	production_methods = {
+		pm_default_building_white_house
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
+pmg_base_building_logging_camp = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_forestry
+		pm_saw_mills
+		pm_electric_saw_mills
+	}
+}
+pmg_hardwood = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_hardwood
+		pm_hardwood
+		pm_increased_hardwood
+	}
+}
+pmg_equipment = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_no_equipment
+		pm_steam_donkey_building_logging_camp
+		pm_chainsaws
+	}
+}
+pmg_transportation_building_logging_camp = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_building_logging_camp
+		pm_log_carts
+	}
+}
+pmg_ownership_capital_building_logging_camp = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_logging_camp
+		pm_privately_owned_building_logging_camp
+		pm_publicly_traded_building_logging_camp
+		pm_government_run_building_logging_camp
+		pm_worker_cooperative_building_logging_camp
+	}
+}
+pmg_base_building_rubber_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_rubber_plantation
+		automatic_irrigation_building_rubber_plantation
+	}
+}
+pmg_train_automation_building_rubber_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_rubber_plantation = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_government_run
+		pm_worker_cooperative_plantation
+	}
+}
+pmg_base_building_fishing_wharf = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_fishing
+		pm_fishing_trawlers
+		pm_steam_trawlers
+	}
+}
+pmg_refrigeration_building_fishing_wharf = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_unrefrigerated
+		pm_refrigerated_storage_building_fishing_wharf
+		pm_refrigerated_rail_cars_building_fishing_wharf
+		pm_flash_freezing_building_fishing_wharf
+	}
+}
+pmg_ownership_capital_building_fishing_wharf = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_fishing_wharf
+		pm_privately_owned_building_fishing_wharf
+		pm_publicly_traded_building_fishing_wharf
+		pm_government_run_building_fishing_wharf
+		pm_worker_cooperative_building_fishing_wharf
+	}
+}
+pmg_base_building_whaling_station = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_simple_whaling
+		pm_wooden_whaling_ships
+		pm_steam_whaling_ships
+	}
+}
+pmg_refrigeration_building_whaling_station = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_unrefrigerated
+		pm_refrigerated_storage_building_whaling_station
+		pm_refrigerated_rail_cars_building_whaling_station
+		pm_flash_freezing_building_whaling_station
+	}
+}
+pmg_ownership_capital_building_whaling_station = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_merchant_guilds_building_whaling_station
+		pm_privately_owned_building_whaling_station
+		pm_publicly_traded_building_whaling_station
+		pm_government_run_building_whaling_station
+		pm_worker_cooperative_building_whaling_station
+	}
+}
+pmg_base_building_oil_rig = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_steam_derricks
+		pm_combustion_derricks
+	}
+}
+pmg_transportation_building_oil_rig = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_rail_transport_building_oil_rig
+		pm_tanker_cars
+	}
+}
+pmg_ownership_capital_building_oil_rig = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_industry
+		pm_publicly_traded_building_oil_rig
+		pm_government_run_industry
+		pm_worker_cooperative_industry
+	}
+}
+pmg_canal = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_canal
+	}
+}
+pmg_base_building_railway = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_early_trains
+		pm_steam_trains
+		pm_electric_trains
+		pm_diesel_trains
+	}
+}
+pmg_passenger_trains = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_no_passenger_trains
+		pm_wooden_passenger_carriages
+		pm_steel_passenger_carriages
+	}
+}
+pmg_ownership_capital_building_railway = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_building_railway
+		pm_publicly_traded_building_railway
+		pm_government_run_building_railway
+		pm_worker_cooperative_building_railway
+	}
+}
+pmg_base_building_trade_center = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_trade_center
+	}
+}
+pmg_ownership_building_trade_center = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_trade_center_merchant_guilds
+		pm_trade_center_privately_owned
+		pm_trade_center_government_run
+	}
+}
+pmg_base_building_subsistence_farms = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_subsistence_farms
+	}
+}
+pmg_home_workshops_building_subsistence_farms = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_home_workshops_no_building_subsistence_farms
+		pm_home_workshops_building_subsistence_farms
+	}
+}
+pmg_serfdom_building_subsistence_farms = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_serfdom_no
+		pm_serfdom
+	}
+}
+pmg_base_building_subsistence_orchards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_subsistence_orchards
+	}
+}
+pmg_home_workshops_building_subsistence_orchards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_home_workshops_no_building_subsistence_orchards
+		pm_home_workshops_building_subsistence_orchards
+	}
+}
+pmg_serfdom_building_subsistence_orchards = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_serfdom_no
+		pm_serfdom_building_subsistence_orchards
+	}
+}
+pmg_base_building_subsistence_pastures = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_subsistence_pastures
+	}
+}
+pmg_home_workshops_building_subsistence_pastures = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_home_workshops_no_building_subsistence_pastures
+		pm_home_workshops_building_subsistence_pastures
+	}
+}
+pmg_serfdom_building_subsistence_pastures = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_serfdom_no
+		pm_serfdom_building_subsistence_pastures
+	}
+}
+pmg_base_building_subsistence_fishing_villages = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_subsistence_fishing_villages
+	}
+}
+pmg_home_workshops_building_subsistence_fishing_villages = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_home_workshops_no_building_subsistence_fishing_villages
+		pm_home_workshops_building_subsistence_fishing_villages
+	}
+}
+pmg_serfdom_building_subsistence_fishing_villages = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_serfdom_no
+		pm_serfdom_building_subsistence_fishing_villages
+	}
+}
+pmg_base_building_subsistence_rice_paddies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_subsistence_rice_paddies
+	}
+}
+pmg_home_workshops_building_subsistence_rice_paddies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_home_workshops_no_building_subsistence_rice_paddies
+		pm_home_workshops_building_subsistence_rice_paddies
+	}
+}
+pmg_serfdom_building_subsistence_rice_paddies = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_serfdom_no
+		pm_serfdom_building_subsistence_rice_paddies
+	}
+}
+pmg_ownership_building_subsistence = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned_building_subsistence
+		pm_homesteading_building_subsistence
+		pm_worker_cooperative_building_subsistence
+		pm_government_run_building_subsistence
+	}
+}
+pmg_base_building_construction_sector = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	production_methods = {
+		pm_wooden_buildings
+		pm_iron_frame_buildings
+		pm_steel_frame_buildings
+		pm_arc_welded_buildings
+	}
+}
