@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>图片2.jpg</file>
+    <file>图片1.jpg</file>
+    <file>图片3.svg</file>
+    <file>图片4.svg</file>
+    <file>图片5.svg</file>
+	<file>图片6.png</file>
+    <file>780.jpg</file>
+</qresource>
+</RCC>
+ 
